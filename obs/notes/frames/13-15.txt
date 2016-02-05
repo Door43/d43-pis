@@ -11,7 +11,7 @@
   * **[[:pis:obe:kt:forgive]]**
   * **[[:pis:obe:other:tencommandments]]**
   * **[[:pis:obe:other:israel]]**
-  * **[[:pis:obe:kt:sinai]]**
+  * **[[:pis:obe:other:sinai]]**
   * **[[:pis:obe:kt:promisedland]]**
 ==== Translation Notes: ====
 
