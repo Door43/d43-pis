@@ -7,12 +7,12 @@ About 100 years after the **Assyrians** destroyed the **kingdom of Israel**, God
 
 
   * **[[:pis:obe:other:assyria]]**
-  * **[[:pis:obe:other:kingdom-of-israel]]**
+  * **[[:pis:obe:other:kingdomofisrael]]**
   * **[[:pis:obe:kt:god]]**
   * **[[:pis:obe:other:nebuchadnezzar]]**
   * **[[:pis:obe:other:king]]**
   * **[[:pis:obe:other:babylon]]**
-  * **[[:pis:obe:other:kingdom-of-judah]]**
+  * **[[:pis:obe:other:kingdomofjudah]]**
   * **[[:pis:obe:other:babylon]]**
   * **[[:pis:obe:other:servant]]**
 
